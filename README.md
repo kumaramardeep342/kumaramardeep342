@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/kumaramardeep342/kumaramardeep342/blob/main/DALL%C2%B7E%202024-11-09%2019.01.59%20-%20An%20animated%20scene%20of%20a%20data%20scientist%20at%20work%2C%20surrounded%20by%20floating%20data%20visualizations%2C%20graphs%2C%20and%20charts.%20The%20scientist%20is%20using%20a%20laptop%20with%20co.webp)](https://github.com/kumaramardeep342/kumaramardeep342/blob/main/1691321954525.jpg)
+![MasterHead](https://github.com/kumaramardeep342/kumaramardeep342/blob/main/DALL%C2%B7E%202024-11-09%2019.01.59%20-%20An%20animated%20scene%20of%20a%20data%20scientist%20at%20work%2C%20surrounded%20by%20floating%20data%20visualizations%2C%20graphs%2C%20and%20charts.%20The%20scientist%20is%20using%20a%20laptop%20with%20co.webp)(https://github.com/kumaramardeep342/kumaramardeep342/blob/main/1691321954525.jpg)
 
 <h1 align="center">Hi 👋, I'm Amardeep Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
