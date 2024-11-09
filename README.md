@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amardeep Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align = "right" alt="coding" width="400" src = "https://files.oaiusercontent.com/file-quxy7qBne5mdnYuejenC8ROj?se=2024-11-09T12%3A45%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D571557fa-caf7-4a09-9e8e-f97ab8764225.webp&sig=3C3r8Du80w4ITCJUZsKxC2RW29bigFkSYmXxOLka8gU%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramardeep342&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramardeep342" /> </p>
 
